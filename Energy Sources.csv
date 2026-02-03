@@ -1,0 +1,18 @@
+Energy Source Code,Energy Source Name,Emissions Factor (tons CO2e/MWh)
+SYS,All energy sources,N/A
+BAT,Battery storage,0
+WNB,Wind with integrated battery storage,0
+SNB,Solar with integrated battery storage,0
+PS,Pumped storage,0
+OES,Other energy storage,0
+UES,Unknown energy storage,0
+WND,Wind,0
+SUN,Solar,0
+WAT,Hydro and pumped storage,0
+GEO,Geothermal,0.04440902813
+OTH,Other,0
+OIL,Petroleum,0.3840877642
+NG,Natural gas,0.1990131822
+COL,Coal,0.3610558057
+NUC,Nuclear,0
+UNK,Unknown,0
